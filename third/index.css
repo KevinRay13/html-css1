@@ -1,0 +1,43 @@
+header{
+    background-color: lightgray;
+    width: 100%;
+    height: 100px;
+}
+.box1{
+    width: 80px;
+    height: 80px;
+    background-color: cornflowerblue;
+    margin: 10px;
+    margin-left: 20px;
+    float: left;
+}
+.container{
+    width: 100%;
+    height: 300px;
+    
+    text-align: center;
+}
+.text{
+    font-size: 40px;
+    margin: 50px;
+}
+.box2{
+    width: 100%;
+    height: 150px;
+    background-color: cornflowerblue;
+}
+.box3{
+    width: 100%;
+    height: 150px;
+    background-color: cyan;
+}
+.box4{
+    width: 100%;
+    height: 150px;
+    background-color: mediumseagreen;
+}
+.box5{
+    width: 100%;
+    height: 150px;
+    background-color: yellow;
+}
